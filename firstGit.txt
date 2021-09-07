@@ -1,2 +1,2 @@
-holle git
-呜呜呜
+Git is a distributed version control system.
+Git is free software.
